@@ -1,2 +1,2 @@
-# ems-comments-service
-ems-comments-service
+# ems-algacomments-service
+comments-service

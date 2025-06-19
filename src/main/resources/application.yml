@@ -1,10 +1,10 @@
 server.port: '8080'
 
 spring:
-  application.name: comments-services
+  application.name: comments-service
   datasource:
     username: sa
-    url: jdbc:h2:file:~/algacomments-service-db;CASE_INSENSITIVE_IDENTIFIERS=TRUE;
+    url: jdbc:h2:file:~/comments-service-db;CASE_INSENSITIVE_IDENTIFIERS=TRUE;
     driverClassName: org.h2.Driver
     password: '123'
   h2:
